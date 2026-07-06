@@ -106,6 +106,12 @@
   </a>
 </p>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mukller/Mukller/output/github-contribution-grid-snake-Dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mukller/Mukller/output/github-contribution-grid-snake-Light.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mukller/Mukller/output/github-contribution-grid-snake.svg">
+</picture>
 <p align="center">
   <i>⭐ From <a href="https://github.com/Mukller">Anton Petnitsky</a> · Thanks for visiting!</i>
 </p>
