@@ -74,6 +74,132 @@
   </a>
 </p>
 
+### 💻 Tech Stack & Arsenal
+
+<div align="center">
+
+  <!-- Languages -->
+  <p><strong>🧠 Languages</strong></p>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="55" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="55" alt="Lua" />
+
+  <br><br>
+
+  <!-- Frontend & UI -->
+  <p><strong>🎨 Frontend & UI/UX</strong></p>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" alt="React" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" alt="Figma" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="55" alt="Adobe Photoshop" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" width="55" alt="Adobe Illustrator" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="55" alt="Adobe After Effects" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="55" alt="Three.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="55" alt="Blender" />
+
+  <br><br>
+
+  <!-- Backend & Database -->
+  <p><strong>⚙️ Backend, Database & APIs</strong></p>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="55" alt="Apache Tomcat" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="55" alt="Apache Maven" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="55" alt="MS SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" alt="MongoDB" />
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="55" alt="Supabase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55" alt="Oracle" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="55" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="55" alt="Groovy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="55" alt="Gradle" />
+
+  <br><br>
+
+  <!-- Cloud & Deployment -->
+  <p><strong>☁️ Cloud, DevOps & Deployment</strong></p>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS" />
+  <img src="https://cdn.simpleicons.org/vercel" width="55" alt="Vercel" />
+  <img src="https://cdn.simpleicons.org/render" width="55" alt="Render" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" width="55" alt="FileZilla" />
+
+  <br><br>
+
+  <!-- IDEs & Development Tools -->
+  <p><strong>🛠️ IDEs & Development Tools</strong></p>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="55" alt="Visual Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="55" alt="IntelliJ IDEA" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="55" alt="PyCharm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="55" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="55" alt="Apache NetBeans" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="55" alt="Vim" />
+
+  <br><br>
+
+  <!-- Operating Systems -->
+  <p><strong>🖥️ Operating Systems</strong></p>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="55" alt="Ubuntu" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="55" alt="CentOS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="55" alt="Kali Linux" />
+  <img src="https://cdn.simpleicons.org/archlinux" width="55" alt="BlackArch Linux" />
+
+  <br><br>
+
+  <!-- Networking & Cybersecurity -->
+  <p><strong>🔐 Networking & Cybersecurity</strong></p>
+
+  <img src="https://cdn.simpleicons.org/cisco" width="55" alt="Cisco" />
+  <img src="https://cdn.simpleicons.org/wireshark" width="55" alt="Wireshark" />
+  <img src="https://cdn.simpleicons.org/hashcat" width="55" alt="Hashcat" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="55" alt="VMware" />
+  <img src="https://cdn.simpleicons.org/hashicorp" width="55" alt="Ferncracker" />
+
+  <br><br>
+
+  <p><strong>🔌 Electronics & Embedded</strong></p>
+
+<img src="https://cdn.simpleicons.org/arduino" width="55" alt="Arduino IDE" />
+
+<img src="https://cdn.simpleicons.org/tinkercad" width="55" alt="Tinkercad" />
+
+<br><br>
+
+  <p><strong>🤖 AI Tools & Platforms</strong></p>
+
+<img src="https://cdn.simpleicons.org/googlegemini" width="55" alt="Google Gemini" />
+
+<img src="https://cdn.simpleicons.org/githubcopilot" width="55" alt="GitHub Copilot" />
+
+<img src="https://cdn.simpleicons.org/openrouter" width="55" alt="OpenRouter AI" />
+
+<br><br>
+
+</div>
+
+---
+
 📊 GitHub Stats
 
 <p align="center">
@@ -88,6 +214,27 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mukller&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
 </p>
+
+## GitHub Stats 📟
+
+<p align="center">
+ <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Mukller&show_icons=true&theme=apprentice" />
+</p>
+
+<p align="center">
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mukller&theme=apprentice&utcOffset=0" />
+ <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukller&theme=apprentice" />
+</p>
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="Metrics" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mukller.Mukller" alt="visitor badge"/>
+</p>
+
+---
 
 📫 Contact
 
