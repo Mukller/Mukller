@@ -17,7 +17,9 @@
   </a>
 </p>
 
-🧑‍💻 About me
+---
+
+## 🧑‍💻 About Me
 
 - 🎓 17-year-old developer based in **Minsk, Belarus**
 - 🎮 Building **Minecraft plugins** for [MineLore](https://github.com/MineLore) and the community
@@ -27,7 +29,9 @@
 - 💬 Languages I speak: **Belarusian · Russian · English**
 - 🌐 Personal site: **[antonpetnitsky.com](https://antonpetnitsky.com)**
 
-🛠️ Languages and Tools
+---
+
+## 🛠️ Languages & Tools
 
 <p align="left">
   <a href="https://isocpp.org/" target="_blank">
@@ -74,11 +78,12 @@
   </a>
 </p>
 
-### 💻 Tech Stack & Arsenal
+---
+
+## 💻 Tech Stack & Arsenal
 
 <div align="center">
 
-  <!-- Languages -->
   <p><strong>🧠 Languages</strong></p>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" alt="Java" />
@@ -96,22 +101,20 @@
 
   <br><br>
 
-  <!-- Frontend & UI -->
   <p><strong>🎨 Frontend & UI/UX</strong></p>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" alt="React" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="55" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" alt="Figma" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="55" alt="Adobe Photoshop" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" width="55" alt="Adobe Illustrator" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="55" alt="Adobe After Effects" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="55" alt="Adobe Photoshop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" width="55" alt="Adobe Illustrator" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="55" alt="Adobe After Effects" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="55" alt="Three.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="55" alt="Blender" />
 
   <br><br>
 
-  <!-- Backend & Database -->
   <p><strong>⚙️ Backend, Database & APIs</strong></p>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" alt="Spring Boot" />
@@ -126,11 +129,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55" alt="Oracle" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="55" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="55" alt="Groovy" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="55" alt="Gradle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="55" alt="Gradle" />
 
   <br><br>
 
-  <!-- Cloud & Deployment -->
   <p><strong>☁️ Cloud, DevOps & Deployment</strong></p>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" alt="Docker" />
@@ -143,7 +145,6 @@
 
   <br><br>
 
-  <!-- IDEs & Development Tools -->
   <p><strong>🛠️ IDEs & Development Tools</strong></p>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" alt="VS Code" />
@@ -156,7 +157,6 @@
 
   <br><br>
 
-  <!-- Operating Systems -->
   <p><strong>🖥️ Operating Systems</strong></p>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" alt="Linux" />
@@ -167,7 +167,6 @@
 
   <br><br>
 
-  <!-- Networking & Cybersecurity -->
   <p><strong>🔐 Networking & Cybersecurity</strong></p>
 
   <img src="https://cdn.simpleicons.org/cisco" width="55" alt="Cisco" />
@@ -180,27 +179,24 @@
 
   <p><strong>🔌 Electronics & Embedded</strong></p>
 
-<img src="https://cdn.simpleicons.org/arduino" width="55" alt="Arduino IDE" />
+  <img src="https://cdn.simpleicons.org/arduino" width="55" alt="Arduino IDE" />
+  <img src="https://cdn.simpleicons.org/tinkercad" width="55" alt="Tinkercad" />
 
-<img src="https://cdn.simpleicons.org/tinkercad" width="55" alt="Tinkercad" />
-
-<br><br>
+  <br><br>
 
   <p><strong>🤖 AI Tools & Platforms</strong></p>
 
-<img src="https://cdn.simpleicons.org/googlegemini" width="55" alt="Google Gemini" />
+  <img src="https://cdn.simpleicons.org/googlegemini" width="55" alt="Google Gemini" />
+  <img src="https://cdn.simpleicons.org/githubcopilot" width="55" alt="GitHub Copilot" />
+  <img src="https://cdn.simpleicons.org/openrouter" width="55" alt="OpenRouter AI" />
 
-<img src="https://cdn.simpleicons.org/githubcopilot" width="55" alt="GitHub Copilot" />
-
-<img src="https://cdn.simpleicons.org/openrouter" width="55" alt="OpenRouter AI" />
-
-<br><br>
+  <br><br>
 
 </div>
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mukller&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -215,15 +211,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Mukller&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
 </p>
 
-## GitHub Stats 📟
-
 <p align="center">
- <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Mukller&show_icons=true&theme=apprentice" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Mukller&show_icons=true&theme=apprentice" />
 </p>
 
 <p align="center">
- <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mukller&theme=apprentice&utcOffset=0" />
- <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukller&theme=apprentice" />
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mukller&theme=apprentice&utcOffset=0" />
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukller&theme=apprentice" />
 </p>
 
 <p align="center">
@@ -236,7 +230,7 @@
 
 ---
 
-📫 Contact
+## 📫 Contact
 
 <p align="left">
   <a href="https://t.me/chotokek" target="_blank">
@@ -253,12 +247,14 @@
   </a>
 </p>
 
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mukller/Mukller/output/github-contribution-grid-snake-Dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mukller/Mukller/output/github-contribution-grid-snake-Light.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mukller/Mukller/output/github-contribution-grid-snake.svg">
 </picture>
+
 <p align="center">
   <i>⭐ From <a href="https://github.com/Mukller">Anton Petnitsky</a> · Thanks for visiting!</i>
 </p>
