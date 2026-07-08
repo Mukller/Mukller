@@ -159,6 +159,10 @@
 </p>
 
 <p align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mukller&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mukller&theme=tokyonight&utcOffset=0" />
   <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukller&theme=tokyonight" />
 </p>
