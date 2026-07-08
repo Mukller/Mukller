@@ -108,21 +108,10 @@
 
   <br><br>
 
-  <p><strong>⚙️ Backend, Database & APIs</strong></p>
+  <p><strong>⚙️ Backend & Databases</strong></p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="55" alt="Apache Tomcat" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="55" alt="Apache Maven" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="55" alt="MS SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" alt="MongoDB" />
-  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="55" alt="Supabase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55" alt="Oracle" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="55" alt="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="55" alt="Groovy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="55" alt="Gradle" />
 
   <br><br>
 
@@ -146,6 +135,7 @@
 
   <img src="https://cdn.simpleicons.org/arduino" width="55" alt="Arduino IDE" />
   <img src="https://cdn.simpleicons.org/tinkercad" width="55" alt="Tinkercad" />
+  <img src="https://cdn.simpleicons.org/solidworks" width="55" alt="SolidWorks" />
 
   <br><br>
 
@@ -169,21 +159,19 @@
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Mukller&show_icons=true&theme=apprentice" />
-</p>
-
-<p align="center">
-  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mukller&theme=apprentice&utcOffset=0" />
-  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukller&theme=apprentice" />
-</p>
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="Metrics" />
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mukller&theme=tokyonight&utcOffset=0" />
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukller&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mukller.Mukller" alt="visitor badge"/>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mukller/Mukller/output/github-contribution-grid-snake-Dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mukller/Mukller/output/github-contribution-grid-snake-Light.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mukller/Mukller/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -205,12 +193,6 @@
 </p>
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mukller/Mukller/output/github-contribution-grid-snake-Dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mukller/Mukller/output/github-contribution-grid-snake-Light.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mukller/Mukller/output/github-contribution-grid-snake.svg">
-</picture>
 
 <p align="center">
   <i>⭐ From <a href="https://github.com/Mukller">Anton Petnitsky</a> · Thanks for visiting!</i>
