@@ -109,9 +109,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="55" alt="Adobe Photoshop" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" width="55" alt="Adobe Illustrator" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="55" alt="Adobe After Effects" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="55" alt="Three.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="55" alt="Blender" />
 
   <br><br>
 
@@ -138,27 +135,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS" />
-  <img src="https://cdn.simpleicons.org/vercel" width="55" alt="Vercel" />
-  <img src="https://cdn.simpleicons.org/render" width="55" alt="Render" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" width="55" alt="FileZilla" />
-
-  <br><br>
-
-  <p><strong>🛠️ IDEs & Development Tools</strong></p>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="55" alt="Visual Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="55" alt="IntelliJ IDEA" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="55" alt="PyCharm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="55" alt="Android Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="55" alt="Apache NetBeans" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="55" alt="Vim" />
 
   <br><br>
 
   <p><strong>🖥️ Operating Systems</strong></p>
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="55" alt="Windows" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="55" alt="Ubuntu" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="55" alt="CentOS" />
@@ -167,28 +149,10 @@
 
   <br><br>
 
-  <p><strong>🔐 Networking & Cybersecurity</strong></p>
-
-  <img src="https://cdn.simpleicons.org/cisco" width="55" alt="Cisco" />
-  <img src="https://cdn.simpleicons.org/wireshark" width="55" alt="Wireshark" />
-  <img src="https://cdn.simpleicons.org/hashcat" width="55" alt="Hashcat" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="55" alt="VMware" />
-  <img src="https://cdn.simpleicons.org/hashicorp" width="55" alt="Ferncracker" />
-
-  <br><br>
-
   <p><strong>🔌 Electronics & Embedded</strong></p>
 
   <img src="https://cdn.simpleicons.org/arduino" width="55" alt="Arduino IDE" />
   <img src="https://cdn.simpleicons.org/tinkercad" width="55" alt="Tinkercad" />
-
-  <br><br>
-
-  <p><strong>🤖 AI Tools & Platforms</strong></p>
-
-  <img src="https://cdn.simpleicons.org/googlegemini" width="55" alt="Google Gemini" />
-  <img src="https://cdn.simpleicons.org/githubcopilot" width="55" alt="GitHub Copilot" />
-  <img src="https://cdn.simpleicons.org/openrouter" width="55" alt="OpenRouter AI" />
 
   <br><br>
 
