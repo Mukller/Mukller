@@ -21,10 +21,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FIRA_Robotics-Participant-FF6B35?style=for-the-badge" alt="FIRA" />
-  <img src="https://img.shields.io/badge/Robofinist-Participant-4A90D9?style=for-the-badge" alt="Robofinist" />
-</p>
 
 ---
 
