@@ -1,10 +1,14 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Anton%20Petnitsky&fontSize=48&fontColor=58A6FF&animation=fadeIn&fontAlignY=42&desc=Developer%20%7C%20Robotics%20%7C%20Self-hosted&descAlignY=62&descSize=20" width="100%" />
+</div>
+
 <h1 align="center">
   Hi there, I'm Anton 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=17+y.o.+developer+from+Minsk%2C+Belarus;Minecraft+plugin+developer+%40+MineLore;C%2B%2B+%E2%80%A2+Python+%E2%80%A2+TypeScript+%E2%80%A2+Arduino;Always+curious%2C+always+coding" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=17+y.o.+developer+from+Minsk%2C+Belarus;Robotics+enthusiast+%E2%80%A2+FIRA+%26+Robofinist;Telegram+bots+%E2%80%A2+Python+%E2%80%A2+C%2B%2B+%E2%80%A2+Java;Self-hosted+%E2%80%A2+Docker+%E2%80%A2+Linux+VPS;Always+curious%2C+always+coding" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -17,17 +21,54 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/FIRA_Robotics-Participant-FF6B35?style=for-the-badge" alt="FIRA" />
+  <img src="https://img.shields.io/badge/Robofinist-Participant-4A90D9?style=for-the-badge" alt="Robofinist" />
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
 
 - 🎓 17-year-old developer based in **Minsk, Belarus**
-- 🎮 Building **Minecraft plugins** for [MineLore](https://github.com/MineLore) and the community
-- 🤖 Tinkering with **Arduino**, robotics, and embedded C++
-- 🌱 Currently exploring: **system design, clean architecture, databases**
-- 🧠 I love clear logic, well-structured code, and elegant solutions
+- 🏆 Competitive robotics participant — **FIRA** & **Robofinist** championships
+- 🤖 Building **embedded systems** with ESP32, Arduino and C++
+- 🎮 Developing **Minecraft plugins** for [MineLore](https://github.com/MineLore) and the community
+- 🛰️ Writing **Telegram bots** with aiogram & Telethon
+- 🖥️ Running my own **Linux VPS** — Minecraft, Nextcloud, Docker, self-hosted services
 - 💬 Languages I speak: **Belarusian · Russian · English**
 - 🌐 Personal site: **[antonpetnitsky.com](https://antonpetnitsky.com)**
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Mukller/Balance_robot">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mukller&repo=Balance_robot&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Mukller/fira-autonomous-rc-car">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mukller&repo=fira-autonomous-rc-car&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Mukller/claude-auto-continue">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mukller&repo=claude-auto-continue&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Mukller/chess">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mukller&repo=chess&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Mukller/awesome-hello-languages">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mukller&repo=awesome-hello-languages&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Mukller/tg-birthday-assistant">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mukller&repo=tg-birthday-assistant&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
 ---
 
@@ -104,9 +145,17 @@
 
   <br><br>
 
+  <p><strong>🎯 AI & Computer Vision</strong></p>
+
+  <img src="https://cdn.simpleicons.org/opencv" width="55" alt="OpenCV" />
+
+  <br><br>
+
   <p><strong>☁️ Cloud, DevOps & Deployment</strong></p>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/nginx" width="55" alt="Nginx" />
+  <img src="https://cdn.simpleicons.org/nextcloud" width="55" alt="Nextcloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" alt="GitHub" />
 
@@ -122,7 +171,8 @@
 
   <p><strong>🔌 Electronics & Embedded</strong></p>
 
-  <img src="https://cdn.simpleicons.org/arduino" width="55" alt="Arduino IDE" />
+  <img src="https://cdn.simpleicons.org/arduino" width="55" alt="Arduino" />
+  <img src="https://cdn.simpleicons.org/espressif" width="55" alt="ESP32" />
   <img src="https://cdn.simpleicons.org/tinkercad" width="55" alt="Tinkercad" />
   <img src="https://cdn.simpleicons.org/solidworks" width="55" alt="SolidWorks" />
 
@@ -190,3 +240,7 @@
 <p align="center">
   <i>⭐ From <a href="https://github.com/Mukller">Anton Petnitsky</a> · Thanks for visiting!</i>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
+</div>
