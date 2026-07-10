@@ -212,6 +212,19 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mukller/Mukller/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" />
+</p>
+
+<p align="center">
+  <img src="./game.gif" alt="GitHub Space Shooter" />
+</p>
 ---
 
 ## 📫 Contact
