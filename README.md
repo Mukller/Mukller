@@ -19,8 +19,8 @@
   <a href="https://antonpetnitsky.com">
     <img src="https://img.shields.io/badge/Website-antonpetnitsky.com-58A6FF?style=flat&logo=googlechrome&logoColor=white" alt="website" />
   </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mukller.Mukller" alt="visitor badge"/>
 </p>
-
 
 ---
 
@@ -34,37 +34,6 @@
 - 🖥️ Running my own **Linux VPS** — Minecraft, Nextcloud, Docker, self-hosted services
 - 💬 Languages I speak: **Belarusian · Russian · English**
 - 🌐 Personal site: **[antonpetnitsky.com](https://antonpetnitsky.com)**
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Mukller/Balance_robot">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mukller&repo=Balance_robot&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Mukller/fira-autonomous-rc-car">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mukller&repo=fira-autonomous-rc-car&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Mukller/claude-auto-continue">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mukller&repo=claude-auto-continue&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Mukller/chess">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mukller&repo=chess&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Mukller/awesome-hello-languages">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mukller&repo=awesome-hello-languages&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Mukller/tg-birthday-assistant">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mukller&repo=tg-birthday-assistant&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
 
 ---
 
@@ -202,29 +171,20 @@
   <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukller&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mukller.Mukller" alt="visitor badge"/>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mukller/Mukller/output/github-contribution-grid-snake-Dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mukller/Mukller/output/github-contribution-grid-snake-Light.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mukller/Mukller/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="./game.gif" alt="GitHub Space Shooter" />
 </p>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Calendar" />
 </p>
 
-<p align="center">
-  <img src="./game.gif" alt="GitHub Space Shooter" />
-</p>
 ---
 
 ## 📫 Contact
@@ -247,7 +207,7 @@
 ---
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/Mukller">Anton Petnitsky</a> · Thanks for visiting!</i>
+  <i>&#11088; From <a href="https://github.com/Mukller">Anton Petnitsky</a> &middot; Thanks for visiting!</i>
 </p>
 
 <div align="center">
