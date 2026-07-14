@@ -35,37 +35,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Mukller/Balance_robot">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mukller&repo=Balance_robot&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Mukller/fira-autonomous-rc-car">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mukller&repo=fira-autonomous-rc-car&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Mukller/claude-auto-continue">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mukller&repo=claude-auto-continue&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Mukller/tg-birthday-assistant">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mukller&repo=tg-birthday-assistant&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Mukller/chess">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mukller&repo=chess&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Mukller/awesome-hello-languages">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mukller&repo=awesome-hello-languages&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
----
-
 ## 💻 Tech Stack
 
 <p align="center">
