@@ -49,8 +49,10 @@
   <img src="https://cdn.simpleicons.org/arduino" width="42" alt="Arduino" title="Arduino" />
   <img src="https://cdn.simpleicons.org/espressif" width="42" alt="ESP32" title="ESP32" />
   <img src="https://cdn.simpleicons.org/opencv" width="42" alt="OpenCV" title="OpenCV" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" alt="MySQL" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" alt="MongoDB" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" alt="MySQL / SQL" title="MySQL / SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42" alt="SQLite" title="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker" title="Docker" />
   <img src="https://cdn.simpleicons.org/nginx" width="42" alt="Nginx" title="Nginx" />
   <img src="https://cdn.simpleicons.org/nextcloud" width="42" alt="Nextcloud" title="Nextcloud" />
