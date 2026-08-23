@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=650&lines=17+y.o.+developer+from+Minsk%2C+Belarus;Robotics+enthusiast+%E2%80%A2+FIRA+%26+Robofinist;Telegram+bots+%E2%80%A2+Python+%E2%80%A2+C%2B%2B+%E2%80%A2+Java;Self-hosted+%E2%80%A2+Docker+%E2%80%A2+Linux+VPS;Always+curious%2C+always+coding" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=650&lines=Python+backend+dev+from+Minsk%2C+Belarus;Robotics+enthusiast+%E2%80%A2+FIRA+%26+Robofinist;Telegram+bots+%E2%80%A2+Python+%E2%80%A2+C%2B%2B+%E2%80%A2+Java;Self-hosted+%E2%80%A2+Docker+%E2%80%A2+Linux+VPS;Always+curious%2C+always+coding" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -27,11 +27,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 17 y.o. developer · **Minsk, Belarus** · coding since age 14
+- 🚀 Full-cycle developer · **Minsk, Belarus** · shipping since June 2024
 - 🏆 Competitive robotics — **FIRA** & **Robofinist** championships · OpenCV + ESP32
 - 🤖 Builds **Telegram bots** (aiogram / Telethon), **embedded systems** (ESP32 / Arduino), **Minecraft plugins** (Java)
 - 🖥️ Runs own **Linux VPS** — Minecraft server · Nextcloud · Docker stack · self-hosted services
-- 🌐 [antonpetnitsky.com](https://antonpetnitsky.com) · Open to internships & remote collaboration
+- 📈 11+ shipped products · 8+ live serving **100+ users** (Telegram chess platform w/ Stockfish AI, packet-level Minecraft anti-cheat)`n- 🤝 Open to junior/mid remote roles: Python backend · bot infrastructure · AI-integration
 
 ---
 
