@@ -12,7 +12,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mukller&label=Profile+views&color=00C8FF&style=flat" alt="profile views" />
   <a href="https://github.com/Mukller?tab=followers">
     <img src="https://img.shields.io/github/followers/Mukller?label=Followers&style=flat&color=00C8FF" alt="followers" />
   </a>
@@ -29,13 +28,13 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 Full-cycle developer · **Minsk, Belarus** · shipping since June 2024
-- 🏆 Competitive robotics — **FIRA** & **Robofinist** championships · OpenCV + ESP32
-- 🤖 **Telegram bots** in production — aiogram / Telethon · chess w/ Stockfish · streak automation · moderation
-- 🖥️ Runs his own infra — Docker · Nginx · PostgreSQL · Redis · Tailscale · systemd · a Minecraft network (Java + Bedrock)
-- 🔌 Embedded & robotics — ESP32 / Arduino in C++ · LiDAR · 3D-printer control (Klipper) · Raspberry Pi
-- 📈 **27 public repos** · self-hosted platforms serving real users · packet-level Minecraft anti-cheat
-- 🤝 Open to **mid-level** remote roles: backend · bot infrastructure · self-hosted infra · AI integration
+- <img src="./icons/rocket.svg" width="17" height="17" align="center"> &nbsp;Full-cycle developer · **Minsk, Belarus** · shipping since June 2024
+- <img src="./icons/trophy.svg" width="17" height="17" align="center"> &nbsp;Competitive robotics — **FIRA** & **Robofinist** championships · OpenCV + ESP32
+- <img src="./icons/robot.svg" width="17" height="17" align="center"> &nbsp;**Telegram bots** in production — aiogram / Telethon · chess w/ Stockfish · streak automation · moderation
+- <img src="./icons/server.svg" width="17" height="17" align="center"> &nbsp;Runs his own infra — Docker · Nginx · PostgreSQL · Redis · Tailscale · systemd · a Minecraft network (Java + Bedrock)
+- <img src="./icons/cpu.svg" width="17" height="17" align="center"> &nbsp;Embedded & robotics — ESP32 / Arduino in C++ · LiDAR · 3D-printer control (Klipper) · Raspberry Pi
+- <img src="./icons/code.svg" width="17" height="17" align="center"> &nbsp;**27 public repos** · self-hosted platforms serving real users · packet-level Minecraft anti-cheat
+- <img src="./icons/briefcase.svg" width="17" height="17" align="center"> &nbsp;Open to **mid-level** remote roles: backend · bot infrastructure · self-hosted infra · AI integration
 
 > Full CV with projects, robotics and competitions: **[antonpetnitsky.com/cv-ru.html](https://antonpetnitsky.com/cv-ru.html)** · **[cv-en.html](https://antonpetnitsky.com/cv-en.html)**
 
@@ -92,12 +91,19 @@
 
 > LiDAR (RPLIDAR LDS-01) on a 3-wheel omnidirectional platform, plus Klipper/Fly-D7 3D-printer control on a Raspberry Pi Zero 2 W.
 
-**Mobile**
+**Mobile & Client Work**
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="42" alt="Dart" title="Dart" />
   <img src="https://cdn.simpleicons.org/flutter" width="42" alt="Flutter" title="Flutter" />
 </p>
+
+> **Delivery platform «Safalife» — private, built on commission.** A water-delivery business
+> ordering stack: a Flutter courier app (signed Android releases, build pipeline) plus two
+> Telegram bots in Russian and Uzbek for clients and couriers, backed by a FastAPI service and
+> PostgreSQL. The code is **closed and not published** — it belongs to the client — so what is
+> described here is architecture and scope, not source. Handling a real client's release process,
+> versioning and signing from end to end is the part worth noting.
 
 ---
 
