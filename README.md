@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=060d1f&height=200&section=header&text=Anton%20Petnitsky&fontSize=48&fontColor=6e7781&animation=fadeIn&fontAlignY=42&desc=Backend%20%7C%20Infra%20%7C%20Robotics%20%7C%20Self-hosted&descAlignY=62&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=060d1f&height=200&section=header&text=Anton%20Petnitsky&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Backend%20%7C%20Infra%20%7C%20Robotics%20%7C%20Self-hosted&descAlignY=62&descSize=20" width="100%" />
 </div>
 
 <h1 align="center">
@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6e7781&center=true&vCenter=true&width=650&lines=Backend+%26+infra+engineer+from+Minsk%2C+Belarus;Self-hosted+%E2%80%A2+Docker+%E2%80%A2+Nginx+%E2%80%A2+Tailscale;Telegram+bots+in+Go+%2C+Rust+%2C+Python+%2C+C%2B%2B;Robotics+%E2%80%A2+ESP32+%E2%80%A2+LiDAR+%E2%80%A2+OpenCV;Always+curious%2C+always+shipping" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=650&lines=Backend+%26+infra+engineer+from+Minsk%2C+Belarus;Self-hosted+%E2%80%A2+Docker+%E2%80%A2+Nginx+%E2%80%A2+Tailscale;Telegram+bots+in+Go+%2C+Rust+%2C+Python+%2C+C%2B%2B;Robotics+%E2%80%A2+ESP32+%E2%80%A2+LiDAR+%E2%80%A2+OpenCV;Always+curious%2C+always+shipping" alt="Typing animation" />
 </p>
 
 <p align="center">
