@@ -113,7 +113,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mukller&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Mukller&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
