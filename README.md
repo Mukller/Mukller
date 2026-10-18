@@ -145,7 +145,7 @@
 ---
 
 <p align="center">
-  <i>&#11088; From <a href="https://github.com/Mukller">Anton Petnitsky</a> &middot; Thanks for visiting!</i>
+  <i><img src="./icons/star.svg" width="16" height="16" align="center"> From <a href="https://github.com/Mukller">Anton Petnitsky</a> &middot; Thanks for visiting!</i>
 </p>
 
 <div align="center">
