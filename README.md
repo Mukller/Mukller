@@ -39,7 +39,7 @@
 
 ---
 
-## 💻 Tech Stack
+<h3><img src="./icons/code.svg" width="24" height="24" align="center"> Tech Stack</h3>
 
 **Languages**
 
@@ -106,7 +106,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h3><img src="./icons/chart-line.svg" width="24" height="24" align="center"> GitHub Stats</h3>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mukller&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -122,7 +122,7 @@
 
 ---
 
-## 📫 Contact
+<h3><img src="./icons/send.svg" width="24" height="24" align="center"> Contact</h3>
 
 <p align="center">
   <a href="https://t.me/chotokek" target="_blank">
