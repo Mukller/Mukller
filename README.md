@@ -4,7 +4,6 @@
 
 <h1 align="center">
   Hi there, I'm Anton
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
 <p align="center">
@@ -26,7 +25,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## <img src="./icons/briefcase.svg" width="24" height="24" align="center"> About Me
 
 - <img src="./icons/rocket.svg" width="17" height="17" align="center"> &nbsp;Full-cycle developer · **Minsk, Belarus** · shipping since June 2024
 - <img src="./icons/trophy.svg" width="17" height="17" align="center"> &nbsp;Competitive robotics — **FIRA** & **Robofinist** championships · OpenCV + ESP32
