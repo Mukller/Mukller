@@ -16,11 +16,13 @@
   <a href="https://github.com/Mukller?tab=followers">
     <img src="https://img.shields.io/github/followers/Mukller?label=Followers&style=flat&color=00C8FF" alt="followers" />
   </a>
+  <a href="https://antonpetnitsky.com/cv-ru.html" target="_blank">
+    <img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-antonpetnitsky.com-00C8FF?style=flat&logo=readthedocs&logoColor=white" alt="resume" />
+  </a>
   <a href="https://antonpetnitsky.com">
     <img src="https://img.shields.io/badge/Website-antonpetnitsky.com-00C8FF?style=flat&logo=googlechrome&logoColor=white" alt="website" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-00C8FF?style=flat&logo=handshake&logoColor=white" alt="open to work" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mukller.Mukller" alt="visitor badge"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-00C8FF?style=flat&logo=handshake&logoColor=white" alt="open to work" />
 </p>
 
 ---
@@ -32,8 +34,10 @@
 - 🤖 **Telegram bots** in production — aiogram / Telethon · chess w/ Stockfish · streak automation · moderation
 - 🖥️ Runs his own infra — Docker · Nginx · PostgreSQL · Redis · Tailscale · systemd · a Minecraft network (Java + Bedrock)
 - 🔌 Embedded & robotics — ESP32 / Arduino in C++ · LiDAR · 3D-printer control (Klipper) · Raspberry Pi
-- 📈 **39 public + 17 private repos** · self-hosted platforms serving real users · packet-level Minecraft anti-cheat
-- 🤝 Open to junior/mid remote roles: backend · bot infrastructure · self-hosted infra · AI integration
+- 📈 **27 public repos** · self-hosted platforms serving real users · packet-level Minecraft anti-cheat
+- 🤝 Open to **mid-level** remote roles: backend · bot infrastructure · self-hosted infra · AI integration
+
+> Full CV with projects, robotics and competitions: **[antonpetnitsky.com/cv-ru.html](https://antonpetnitsky.com/cv-ru.html)** · **[cv-en.html](https://antonpetnitsky.com/cv-en.html)**
 
 ---
 
@@ -70,7 +74,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="42" alt="Ubuntu" title="Ubuntu" />
 </p>
 
-> Nginx config is part of the stack, not just a proxy in front of it; services are wired via systemd units, reverse-proxied and reached over Tailscale.
+> This is not a proxy in front of something — the Nginx setup **runs in production** on
+> [antonpetnitsky.com](https://antonpetnitsky.com): one hybrid vhost serving the static portfolio,
+> the research catalog and the Botka Mini App, with guard-tested config in
+> [`Mukller/antonpetnitsky.com`](https://github.com/Mukller/antonpetnitsky.com). Services are wired via
+> systemd units, reverse-proxied and reached over Tailscale.
 
 **Embedded & Robotics**
 
@@ -93,29 +101,87 @@
 
 ---
 
+## 🚀 Selected Work
+
+<table>
+<tr><td width="50%" valign="top">
+
+### 🌐 antonpetnitsky.com
+Hybrid hosting platform — static portfolio, research catalog and the Botka Mini App behind a
+single Nginx vhost, with a config guard that fails CI if a routing block is ever dropped.
+<br><br>
+`nginx` `docker` `CI/CD` `Hono` `Drizzle` `PostgreSQL`
+<br><br>
+[Repository](https://github.com/Mukller/antonpetnitsky.com) · [Live](https://antonpetnitsky.com)
+
+</td><td width="50%" valign="top">
+
+### 🧩 opencode-chrome
+Lets a local coding agent see and drive the browser: Chrome extension on `chrome.debugger` CDP
+plus a local MCP bridge. A Claude-in-Chrome style loop, built for opencode.
+<br><br>
+`TypeScript` `Chrome extension` `MCP` `CDP`
+<br><br>
+[Repository](https://github.com/Mukller/opencode-chrome)
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+### ♟️ chess
+Full-featured Telegram chess bot: Stockfish engine, ELO ratings, and three game modes —
+vs AI, hot-seat, and online PvP with matchmaking.
+<br><br>
+`Python` `aiogram 3` `FastAPI` `PostgreSQL` `Redis` `Stockfish` `React` `Docker`
+<br><br>
+[Repository](https://github.com/Mukller/chess)
+
+</td><td width="50%" valign="top">
+
+### 🔀 claude-code-gateway
+Anthropic-compatible gateway for Claude Code: multi-provider routing, key rotation,
+fallback chains, cost tracking and a dashboard.
+<br><br>
+`Go` `LLM` `Proxy` `Self-hosted`
+<br><br>
+[Repository](https://github.com/Mukller/claude-code-gateway)
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+### 🤖 Balance_robot
+Self-balancing robot on ESP32: line tracking, obstacle avoidance, real-time PID and a web
+joystick. Won 1st place in "Line Following" at Robofinist 2026.
+<br><br>
+`C++` `Arduino` `ESP32` `PID` `WiFi`
+<br><br>
+[Repository](https://github.com/Mukller/Balance_robot)
+
+</td><td width="50%" valign="top">
+
+### 🖨️ klipper-dwin-bridge
+Klipper ↔ Creality DWIN touchscreen bridge for the Ender 5 S1 on a Pi Zero 2 W: stock screen UI
+plus Marlin-style live tuning (steps/mm, PID, bed mesh, filament profiles).
+<br><br>
+`Python` `Klipper` `DWIN` `Raspberry Pi`
+<br><br>
+[Repository](https://github.com/Mukller/klipper-dwin-bridge)
+
+</td></tr>
+</table>
+
+More robotics, Minecraft plugins and Telegram bots in the [full list of repositories](https://github.com/Mukller?tab=repositories).
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mukller&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukller&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/top-langs/?username=Mukller&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mukller&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mukller&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mukller/Mukller/output/github-contribution-grid-snake-Dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mukller/Mukller/output/github-contribution-grid-snake-Light.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mukller/Mukller/output/github-contribution-grid-snake.svg">
-</picture>
-
-<p align="center">
-  <img src="./game.gif" alt="GitHub Space Shooter" />
 </p>
 
 <p align="center">
@@ -126,7 +192,7 @@
 
 ## 📫 Contact
 
-<p align="left">
+<p align="center">
   <a href="https://t.me/chotokek" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
@@ -138,6 +204,9 @@
   </a>
   <a href="https://antonpetnitsky.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://antonpetnitsky.com/cv-ru.html" target="_blank">
+    <img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-00C8FF?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
   </a>
 </p>
 
